@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exutoemo.github.io/DCQ/sitemap_index.txt
+Sitemap: https://exutoemo.github.io/QJC/sitemap_index.txt
+Sitemap: https://exutoemo.github.io/WFl/sitemap_index.txt
+Sitemap: https://exutoemo.github.io/joe/sitemap_index.txt
